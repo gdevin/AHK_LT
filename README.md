@@ -1,2 +1,13 @@
 # AHK_LT
-AutoHotKey for LiveTime
+AutoHotKey script for LiveTime
+
+This script eliminates the tedious mouse moving and clicking needed to create rounds in LiveTime.
+
+Installation is done by install AutoHotKey from www.autohotkey.com and downloading the script and jpeg images from this repository.  Then simply run the script and and use the following keys when in LiveTime to manage your race.
+
+Ctrl-f Finishes a race.
+Ctrl-w If a wreck occurs and you need to false start a race.
+Ctrl-y Same as Alt-y, use this to slelct Yes.
+Ctrl-g Generate the next round.
+
+The script uses the AHK ImageSearch function.  This sould work on most system but your milage may vary.
