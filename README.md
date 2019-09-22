@@ -3,7 +3,7 @@ AutoHotKey script for LiveTime
 
 This script eliminates the tedious mouse moving and clicking needed to create rounds in LiveTime.
 
-Installation is done by install AutoHotKey from www.autohotkey.com and downloading the script and jpeg images from this repository.  Then run the script and use the following keys when in LiveTime to manage your race.
+Installation is done by installing AutoHotKey from www.autohotkey.com and downloading the script and jpeg images from the AHK_LT folder in this repository.  Then run the script and use the following keys when in LiveTime to manage your race.
 
 Ctrl-f Finishes a race.<br />
 Ctrl-w If a wreck occurs and you need to false start a race.<br />
